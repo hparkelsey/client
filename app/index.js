@@ -7,5 +7,5 @@ const Home = () => {
         </View>
     )
 }
-
+// trdt 
 export default Home
